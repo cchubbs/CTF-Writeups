@@ -1,2 +1,2 @@
 # CTF-Writeups
-WriteupsforCTFs
+Solves for CTF challenges I create
